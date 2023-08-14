@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "levenberg_marquardt_sinus_fit_low_level_1D_01", "levenberg_marquardt_sinus_fit_low_level_1D_01.vcxproj", "{DA57D92C-A3DF-4C8E-B146-F925C77961E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA57D92C-A3DF-4C8E-B146-F925C77961E1}.Debug|x64.ActiveCfg = Debug|x64
+		{DA57D92C-A3DF-4C8E-B146-F925C77961E1}.Debug|x64.Build.0 = Debug|x64
+		{DA57D92C-A3DF-4C8E-B146-F925C77961E1}.Debug|x86.ActiveCfg = Debug|Win32
+		{DA57D92C-A3DF-4C8E-B146-F925C77961E1}.Debug|x86.Build.0 = Debug|Win32
+		{DA57D92C-A3DF-4C8E-B146-F925C77961E1}.Release|x64.ActiveCfg = Release|x64
+		{DA57D92C-A3DF-4C8E-B146-F925C77961E1}.Release|x64.Build.0 = Release|x64
+		{DA57D92C-A3DF-4C8E-B146-F925C77961E1}.Release|x86.ActiveCfg = Release|Win32
+		{DA57D92C-A3DF-4C8E-B146-F925C77961E1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5A4394F-7C90-47C3-A9AF-21000F80307A}
+	EndGlobalSection
+EndGlobal
